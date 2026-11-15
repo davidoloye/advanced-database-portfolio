@@ -1,6 +1,8 @@
 # Advanced Database Portfolio
 
 **Organisation:** eProcess Nigeria
+
+🔗 GitHub Repository: https://github.com/davidoloye/advanced-database-portfolio
 **Domain:** Software Development (Fintech Services)
 
 This repository contains a series of mini‑projects that demonstrate key database concepts and techniques tailored for a fintech system. The projects are organised into five portfolios, each focusing on a different aspect of database engineering:
